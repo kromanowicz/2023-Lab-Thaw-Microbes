@@ -1,6 +1,6 @@
 # Short- and Long-Term Response of the Soil Microbiome to Extended Permafrost Thaw Duration
 
-### [Karl J. Romanowicz](https://lsa.umich.edu/eeb/people/graduate-students/kjromano.html, Byron C. Crump, and George W. Kling
+### [Karl J. Romanowicz](https://lsa.umich.edu/eeb/people/graduate-students/kjromano.html), Byron C. Crump, and George W. Kling
 
 **Peer Review:** Submitted to *Journal* on Day-Month-Year
 _____________________________________

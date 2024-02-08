@@ -8,12 +8,6 @@ Romanowicz KJ, Crump BC, Kling GW. (2023) Genomic evidence that microbial carbon
 
 ![ ](Images/ISMEComm23.png)
 
-**Links to Rendered Code:** 
-
-[16S Analysis]()
-
-[MG Analysis]()
-
 **NCBI BioProject:**
 
 [PRJNA976224](https://www.ncbi.nlm.nih.gov/bioproject?term=PRJNA976224&cmd=DetailsSearch) for raw .fastq files
